@@ -1,4 +1,4 @@
-# 📊 FUTURE_DS_01 – Data Analysis Project
+# 📊 FUTURE_DS_01 – Data Science & Analytics Internship Project
 
 ## 📌 Overview
 This project focuses on analyzing a dataset using Excel to extract meaningful insights and present them through clear visualizations. It demonstrates core data analysis skills such as data cleaning, interpretation, and dashboard creation.
